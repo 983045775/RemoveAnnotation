@@ -7,7 +7,7 @@ import os
 import re
 
 # 改这个目录！！！
-top_dir = "D:\\iFlytekSource\\Source2.0\\app\\ScreenRecorder_new\\app\\src";
+top_dir = "";
 
 # 状态
 S_INIT = 0
